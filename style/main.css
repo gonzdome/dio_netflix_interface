@@ -44,7 +44,7 @@ header nav a:hover{
 
 .serie-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/DIO_Curso/web/Netflix/img/capa-gam.jpg'); /*E:\DIO_Curso\web\Netflix\img*/
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/DIO_Curso/web/Netflix/img/capa-gamb.jpg');
 
     height: 400px;
     background-size: cover;
